@@ -2,7 +2,7 @@
 - 👀 I'm interested in programming, I love it, I'm obsessed with programming :>>>>
 - 🌱 I’m currently learning computer scince and Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me tg: @yota0000
+- 📫 How to reach me tg: https://t.me/uki_ukl
 
 <!---
 yota-i/yota-i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
